@@ -94,7 +94,7 @@
 
     Output 
 
-    ![img.8](gambar/8.png)
+    ![img.8](gambar/gaji%20kecil.png)
 
 8.  Tampilkan gaji terbesar!
 
@@ -104,9 +104,13 @@
      SELECT MAX(gaji) AS gaji_terbesar FROM pegawai;
     ```
 
+    Output 
+
+    ![img.9](gambar/8.png)
+
 - TABEL Hewan
 
-![img.9](gambar/9.png)
+![img.10](gambar/9.png)
 
 1. Tampilkan jumlah hewan yang dimiliki setiap owner!
 
@@ -118,7 +122,7 @@
 
     Output 
 
-    ![img.10](gambar/10.png)
+    ![img.11](gambar/10.png)
 
 2. Tampilkan jumlah hewan berdasarkan spesies!
 
@@ -130,7 +134,7 @@
 
     Output
 
-    ![img.11](gambar/11.png)
+    ![img.12](gambar/11.png)
 
 3. Tampilkan jumlah hewan berdasarkan jenis kelamin!
 
@@ -142,7 +146,7 @@
 
     Output 
 
-    ![img.12](gambar/12.png)
+    ![img.13](gambar/12.png)
 
 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin!
 
@@ -154,7 +158,7 @@
 
     Output 
 
-    ![img.13](gambar/13.png)
+    ![img.14](gambar/13.png)
 
 5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin!
 
@@ -166,7 +170,7 @@
 
     Output 
 
-    ![img.14](gambar/14.png)
+    ![img.15](gambar/14.png)
 
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja!
 
@@ -179,7 +183,7 @@
 
     Output 
 
-    ![img.15](gambar/15.png)
+    ![img.16](gambar/15.png)
 
 
 # Kesimpulan 
